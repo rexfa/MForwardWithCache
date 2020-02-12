@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="mainlog">12345678</entry>
+<entry key="serverlog">12345678</entry>
+<entry key="csclient">12345678</entry>
+</properties>

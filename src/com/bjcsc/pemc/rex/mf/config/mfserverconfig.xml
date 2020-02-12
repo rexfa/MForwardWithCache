@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="ServerName">JAVA CS 1</entry>
+<entry key="ServerPort">1212</entry>
+<entry key="ServerSoTimeOut">30000</entry>
+<entry key="MaxConnections">12</entry>
+<entry key="MaxErrors">12</entry>
+<entry key="ConnectionTimeout">60000</entry>
+<entry key="LogName">serverLog</entry>
+<entry key="LogFileBack">1000</entry>
+<entry key="LogMax">102400</entry>
+<entry key="LogLevel">3</entry>
+<entry key="LogDir">../log</entry>
+<entry key="LogFormat">	[%d{yyyy MM dd HH:mm:ss:SSS}][%p]	%m%n</entry>
+<entry key="AIUserName">yangzhibo</entry>
+<entry key="AIPassword">1234</entry>
+<entry key="AIIP">10.224.136.135</entry>
+<entry key="AIPort">10001</entry>
+<entry key="ClientCache">2000</entry>
+<entry key="ClientSendDelay">5</entry>
+<entry key="JDBCDriverClassName">oracle.jdbc.driver.OracleDriver</entry>
+<entry key="JDBCUrl">jdbc:oracle:thin:@192.168.18.203:1521:kglmul</entry>
+<!--<entry key="JDBCUrl">jdbc:oracle:thin:@10.224.136.210:1521:netkgl</entry>-->
+<!-- oracle11  -->
+<!--<entry key="JDBCUrl">jdbc:oracle:thin:@dm01-scan.bmcc.com.cn:8521/nmse_pub</entry>-->
+<entry key="JDBCUserName">wyjnew</entry>
+<entry key="JDBCPassword">wyjnew</entry>
+<entry key="EnableAdmin">True</entry>
+<entry key="AdminPort">12130</entry>
+</properties>

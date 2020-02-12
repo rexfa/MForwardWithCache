@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<!--  <entry key="0100">12345678</entry> -->
+<!--  <entry key="0100"></entry>
+<entry key="0101"></entry>
+<entry key="0102"></entry>
+<entry key="0103"></entry>
+<entry key="0104"></entry>
+<entry key="0105"></entry>
+<entry key="0106"></entry>
+<entry key="0105"></entry>
+<entry key="0107"></entry>-->
+<!-- 没有基站，暂时注释掉 -->
+<!--  <entry key="0108">password</entry> -->
+<!-- <entry key="0200"></entry>
+<entry key="0300"></entry>
+<entry key="0301"></entry>-->
+<!-- 没有基站，暂时注释掉 -->
+<!-- <entry key="0302">password</entry> -->
+<entry key="0600"></entry>
+<entry key="0700"></entry>
+</properties>

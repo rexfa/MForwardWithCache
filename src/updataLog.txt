@@ -1,0 +1,4 @@
+log
+2013-06-25 16:30
+增加ClientTransmissionManager内reInitializationSIMList() 重新读取数据库中的Sim列表
+主要为了防止离线修改站，增加和减少，重新连接后 1分钟间隔 可以进行重新初始化simlist
